@@ -4,6 +4,8 @@
 }.ctas-button {
 	color: #444;
 }
+
+
 .ctas-button-2 {
 	border: 1px solid #333;
 }
@@ -28,8 +30,8 @@ body {
 /*text*/
 .heading {
   font-weight: 100;
-  font-size: 50px;
-  line-height: 68px;
+  font-size: 35px;
+  line-height: 47px;
 }
 @media (max-width: 900px) {
 .heading {
@@ -63,9 +65,10 @@ p.paragraph {
   color: rgba(0,0,0,.5);
 }
 .logo {
-  font-size: 30px;
+  font-size: 25px;
   line-height: 30px;
-  font-weight: 900;
+  font-weight: 600;
+	margin-top: -10px
 }
 @media (max-width: 420px) {
   .logo {
@@ -269,7 +272,7 @@ p.paragraph {
 	height: 40px;
 	line-height: 38px;
 	padding: 0 30px;
-	background: #03e7b0 !important;
+	background: #80baff !important;
 	color: #fff !important;
 	border-radius: 3px;
 	font-size: 15px;
