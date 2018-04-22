@@ -55,6 +55,14 @@ body {
   line-height: 32px;
   font-weight: 100;
 }
+
+.paragraph-justified {
+  font-size: 17px;
+  line-height: 32px;
+  font-weight: 100;
+	text-align: left;
+}
+
 .heading + .paragraph {
   margin-top: 30px;
 }
