@@ -5,6 +5,9 @@
 	color: #444;
 }
 
+#bandw {
+	filter: grayscale(100%);
+}
 
 .ctas-button-2 {
 	border: 1px solid #333;
